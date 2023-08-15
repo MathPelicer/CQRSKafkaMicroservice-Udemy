@@ -1,0 +1,15 @@
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\bin\Debug\net6.0\Post.Commun.deps.json
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\bin\Debug\net6.0\Post.Commun.dll
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\bin\Debug\net6.0\Post.Commun.pdb
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\bin\Debug\net6.0\CQRS.Core.dll
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.AssemblyInfo.cs
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.csproj.CopyComplete
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.dll
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\refint\Post.Commun.dll
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\Post.Commun.pdb
+C:\Users\mathe\Documents\Github\CQRSKafkaMicroservice-Udemy\src\SM.Post\Post.Commun\obj\Debug\net6.0\ref\Post.Commun.dll

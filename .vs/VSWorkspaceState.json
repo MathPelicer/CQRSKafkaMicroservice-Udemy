@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CQRS.Core",
+    "\\Post.Cmd.Api",
+    "\\Post.Query"
+  ],
+  "SelectedNode": "\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+  "PreviewInSolutionExplorer": false
+}
