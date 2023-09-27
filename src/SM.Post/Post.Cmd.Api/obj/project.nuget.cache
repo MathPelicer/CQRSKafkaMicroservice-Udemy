@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+pP5eISq+N+s88zObaaZg7tBl/2CGgw5GBrml9ZusAAuwEy7HTF/XQYBmVBjpP4VG/0fzS472RLi7LBi6lUfQw==",
+  "dgSpecHash": "FzbPhK+WfwcME+7WSww1+StcuwLiUzfgl13cx/fFESQ0zzqEQNEBbC/vuJsLZsF8FC3W/eu62tDlizBbqywdAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mathe\\Documents\\Github\\CQRSKafkaMicroservice-Udemy\\src\\SM.Post\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
