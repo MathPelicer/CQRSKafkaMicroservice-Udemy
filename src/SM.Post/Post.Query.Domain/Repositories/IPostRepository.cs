@@ -18,7 +18,7 @@ namespace Post.Query.Domain.Repositories
 
         Task<List<PostEntity>> GetAllByLikesAsync(int likes);
 
-        Task<List<PostEntity>> GetAllByCommentsAsync(int likes);
+        Task<List<PostEntity>> GetAllWithCommentsAsync(int likes);
 
     }
 }
