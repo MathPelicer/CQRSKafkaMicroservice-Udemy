@@ -11,7 +11,7 @@ namespace Post.Query.Domain.Entities
 
         public string Username { get; set; }
 
-        public DateTime PublishedAt { get; set; }
+        public DateTime Date { get; set; }
 
         public string Comment { get; set; }
 

@@ -11,6 +11,6 @@ namespace Post.Commun.Events
         public Guid CommentId { get; set; }
         public string Comment { get; set; }
         public string Username { get; set; }
-        public DateTime AddedAt { get; set; }
+        public DateTime Date { get; set; }
     }
 }

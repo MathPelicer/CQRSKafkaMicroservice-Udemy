@@ -97,13 +97,13 @@ namespace Post.Cmd.Domain.Aggregates
                 CommentId = Guid.NewGuid(),
                 Comment = comment,
                 Username = username,
-                AddedAt = DateTime.Now
+                Date = DateTime.Now
             });
         }
 
         public void Apply(CommentAddedEvent @event)
         {
-            Id = @event.Id;
+            Id = @event.CommentId;
             _comments.Add(@event.CommentId, new Tuple<string, string>(@event.Comment, @event.Username));
         }
 
@@ -125,7 +125,7 @@ namespace Post.Cmd.Domain.Aggregates
                 CommentId = commentId,
                 Comment = comment,
                 Username = username,
-                EditedAt = DateTime.Now
+                Date = DateTime.Now
             });
         }
 
